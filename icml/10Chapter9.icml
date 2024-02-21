@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>09. AFTERWORD: COROLLARY RECORDS, PRECARITY AND CARE</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>MICHELLE CASWELL</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The essays in this volume serve as a powerful reminder that archives are not only about the past; they are about the work that needs to be done in the present to enact a future conducive to our mutual survival. Global in scope, the chapters demonstrate how organizers are finding creative ways to document their own activism, to steward the records they generate, and to activate these records for new works of art and resistance. From Afghan women’s Instagram posts to posters left behind by occupiers of People’s Parks, the records described in this volume assert ‘We Were Here’. With careful archival intervention, these records assert ‘We Will Always Be Here’. Taken together, the chapters reveal how art, activism, and archives are mutually constituted; records get created as a form of protest, protest is an art in that generates its own records, records get activated for new forms of art and resistance. With thoughtful stewardship and outreach, the cycle continues </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>ad infinitum</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> in a Möbius strip of creation, consumption, and care, forming the basis of liberatory memory work.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Liberatory memory work, in the words of the Co-Directors of UCLA’s Community Archives Lab:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>empowers vulnerable communities to enact their own temporalities, to represent themselves autonomously, and to activate records to redistribute material resources more equitably. Liberatory memory work recognizes and leverages the power of emotion to challenge and transform existing knowledge systems; such memory work simultaneously dismantles oppressive archives and imagines and strives toward liberatory practices. What is at stake, ultimately, is not just how we remember the past, but how we distribute power in the present.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Michelle Caswell, Thuy Vo Dang and Tonia Sutherland, ‘Community Archives Lab’, Community Archives Lab UCLA. Uplifting liberatory memory work, n.d., </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://communityarchiveslab.ucla.edu/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>These chapters give us case studies of liberatory memory work across context and cultures, involving a diverse assemblage of actors, archival praxes, and information architectures. Community archives reflect the ontologies and epistemologies of the communities they serve and represent and as such, no two are exactly alike. Yet despite these disparate contexts, commonalities emerge around three major themes: corollary records, precarity, and care.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The records created, archived, and activated in these chapters are what I have termed ‘corollary records’, that is, records that document a parallel, precedented moment in the past that speaks directly to the present.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Michelle Caswell, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Urgent Archives: Enacting Liberatory Memory Work</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London-New York: Routledge, 2021.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Corollary records constitute a blueprint for activists, providing crucial information on the success (and failure) of strategies and tactics from the past, so that organizers do not have to reinvent the wheel with each intervention. But records can only do this if they have been preserved, described, and made accessible. Rebecka Taves Sheffield’s important distinction between record making and record keeping, cited by Ann-Katrine Schmidt Nielsen in chapter five of this volume, is key here.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Rebecka Taves Sheffield, ‘Facebook Live as a Recordmaking Technology’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Archivaria</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 85 (2018): 96–120.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Activists </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>make</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> records, but those records must be actively stewarded if they are to constitute archives. Archives (always with an ‘s’ from an archival studies perspective) are collections of records, preserved and described, rather than metaphors (as they are often characterized in the humanities). The tension between these two perspectives on archive(s) surface here, as authors work through the very material concerns of how to preserve </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>stuff</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> over time. It is abundantly clear on these pages that digital records are simply material </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>stuff</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> in different form, requiring material infrastructure with its own practical and ethical challenges.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As in all discussions from critical archival studies, power forms the backdrop through which we interpret these cases and their attendant challenges. Who has the power to create records? Who has the power to preserve them? What resources (financial and temporal) are required to care for them? What forms of expertise? And who gets to access them and why? And conversely, who </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>cannot</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> access them and why? The authors in this edited volume show how marginalized subjects can reclaim their power through record creation and, to a lesser extent, through archival interventions that stewards these records, once created, across space and time.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Intimately tied to power, precarity surfaces as a looming threat across several chapters in this volume. First and foremost, the people whose activism is documented are driven by a sense of the precarity of their own lives due to oppression and marginalization. The continual state of precarity brought about by late-stage capitalism, white supremacy, hetero-patriarchy, and ableism propels these archival interventions. Yet, from a critical archival studies perspective, crucial questions remain: How can we ensure that records documenting activism do not further jeopardize already-precarious record creators and record subjects by exposing them to additional state surveillance and its attendant regimes of policing, incarceration, and violence? How can we ensure that we are not placing these records in corporate-owned content silos that monetize records of suffering, rendering them commodities that will only be preserved for as long as they generate revenue? How can we ensure that we are not placing digital records as data in servers that soak up fossil fuels, contributing to the climate crisis? In other words, how can we build our own autonomous archival infrastructures that simultaneously allow for both representation and refusal? For answers to these questions, we should turn away from the dominant practices and politics of academic and government repositories and towards the possibilities presented by marginalized identity-based community archives, which have been balancing visibility with protection since time immemorial. These independent grassroots memory organizations make plain that the right to be remembered and the right to be forgotten are two sides of the same coin, both hinging on the right to make autonomous archival decisions. Practices developed by minoritized identity-based community archives remind us that the impulse to be remembered is dangerous and risky for many.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>From the vantage of critical archival studies, it naturally follows that a precarious record creator produces a precarious record. The very affordances of born-digital technologies amplify the precarity of the records they engender; as more people have the means to create records and share them on social media, fewer have the means or expertise to steward those records over time. Records decay by default. It takes active intervention to preserve them over time. Social media platforms purposefully obfuscate these facts, leading users to conflate immediate access and audience with long-term stewardship. The essays in this volume show that this work of stewardship takes many different forms, some carried out by professionally trained archivists, and some, notably, not. In fact, many of the essays in this volume challenge dominant Western professional archival practices that are themselves rooted in oppressive systems.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Dominant Western archival practice focuses on the meticulous details of how best to preserve records rather than catalyzing their activation. Professional archivists in the dominant tradition, now waking up to the worlds of record making and record keeping outside of bureaucracies, are asking, ’We have stewarded these records, now what? How do we activate them?’ The authors in this volume flip this dilemma, instead asking: ‘We have created and activated the records, now how do we steward them?’ It is in a meeting in the middle, the coming together of activists and archivists and the blurring of the lines between the two roles, that liberatory memory work can be forged.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the face of precarity, care surfaces as a potent antidote. For example, the careful ways that Eline Pollaert and Paul Van Trigt describe the affordances of born-digital records documenting Dutch disability rights activism (chapter seven) demonstrate a deep commitment to including </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>all</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> community members both in the historic record and in activist interventions. Likewise, the ways that Daniel Villar-Onrubia describes the conceptualization of an archives honoring the legacy of artist-activist Miguel Benlloch (chapter six) shows how emotions like grief can motivate archival creation and reuse. Care—for those who came before but also those who will come in the future—is also at the heart of Rosemary Grennan’s work crafting the MayDay Rooms (chapter three) for activist use. These collections of records catalyze relationships of care between creators, archivists, users, communities. They remind us that care hinges on accountability—we are accountable to those people in our care. In the face of state failure, relationships of mutual care between people and communities are what is left. In the end, as always, it is not about the stuff (however much technical challenge the stuff poses), but the people.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The records and archival practices described herein are, in the words of Kera Lovell in this volume ‘not reflections but recipes’. They help us imagine the necessary steps to forge liberatory memory work. But like all good cooks, we must tweak the recipe to reflect our own influences, ingredients and equipment. Here is where this book ends, and your work as readers begins.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>References</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Caswell, Michelle. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Urgent Archives: Enacting Liberatory Memory Work</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London-New York: Routledge, 2021.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Caswell, Michelle, Vo Dang, Thuy and Sutherland, Tonia. ‘Community Archives Lab’, Community Archives Lab UCLA, n.d. </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://communityarchiveslab.ucla.edu/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Sheffield, Rebecka Taves. ‘Facebook Live as a Recordmaking Technology’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Archivaria</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 85 (2018): 96–120.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//communityarchiveslab.ucla.edu/" Name="link" DestinationURL="https://communityarchiveslab.ucla.edu/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://communityarchiveslab.ucla.edu/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//communityarchiveslab.ucla.edu/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//communityarchiveslab.ucla.edu/" Name="link" DestinationURL="https://communityarchiveslab.ucla.edu/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://communityarchiveslab.ucla.edu/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//communityarchiveslab.ucla.edu/</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

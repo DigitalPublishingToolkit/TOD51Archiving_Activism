@@ -32,7 +32,7 @@ behind, and practice around building the online collection, and how it
 has created new possibilities for creating different forms of archives
 and archival engagement.
 
-It will look at how MayDay Rooms practices around our paper archive have
+It will look at how MDR practices around our paper archive have
 been reflected and developed in a digital environment, asking questions
 such as: how can building shared and collaborative digital archives move
 away from preoccupations around preservation, which dominates much
@@ -44,11 +44,11 @@ to develop networks of sisterly archives who share digitizations and
 back-up each other's data. These practices ultimately help to break down
 the authority of the archival object, transforming it into something
 that can be shared, copied, and reactivated in the present rather than
-remaining confined to history. []{#_heading=h.30j0zll .anchor}
+remaining confined to history. 
 
 ## Archiving from below
 
-MayDay Rooms was established in 2013 in the midst of brutal austerity
+MDR was established in 2013 in the midst of brutal austerity
 cuts to public services in Britain, which saw the closure of many public
 libraries, community centers, and cultural spaces. Austerity policies,
 in combination with the anti-squatting laws passed in 2011, which
@@ -161,7 +161,7 @@ crisis’, social events and fundraisers for no border networks, youth
 workshops with sisterly archives, writing to people in prison using
 material from the archive, travelling and online exhibitions.
 
-![Fig. 3.1. Scanathon for the Lucas Plan collection at MayDay Rooms in 2018](imgs/3.1.jpg)
+![Fig. 3.1. Scanathon for the Lucas Plan collection at MayDay Rooms in 2018.](imgs/3.1.jpg)
 
 <br/>
 
@@ -180,8 +180,7 @@ Allied Independent Union and Industrial Workers of the World; the
 radical research groups MayDay Radio and the workerist-inspired groups
 Pagliacci Rossi and Red Therapy; the June Givanni Pan African Cinema
 Archive; Statewatch, an organization monitoring state and civil
-liberties; and the LGBTQAI\* support group Living Free and Trans Legal
-Clinic.[]{#_heading=h.1fob9te .anchor}
+liberties; and the LGBTQAI\* support group Living Free and Trans Legal Clinic.
 
 ## Leftover ephemera
 
@@ -253,7 +252,7 @@ create kinds of social relations. These ideas foreground the creation
 and use of print material rather than just transmitting information, and
 this has been a guiding focus when building Leftovers.
 
-![Item records for Big Flame Newspaper from Leftovers](imgs/3.2.jpg)
+![Item records for Big Flame Newspaper from Leftovers.](imgs/3.2.jpg)
 
 <br/>
 
@@ -436,8 +435,7 @@ important that it become part of the archive and be freely accessible.
 All of these online searches for material reveal the breadth of radical
 history resources online and, through bringing them together in one
 place, we have been able to make connections between documents and
-collections that would usually be dispersed. []{#_heading=h.2et92p0
-.anchor}
+collections that would usually be dispersed. 
 
 ## Dissemination as preservation
 
@@ -445,8 +443,7 @@ Leftovers was founded on the idea that radical archiving should be
 outward facing and promote distribution, accessibility and use, rather
 than being a static repository. This is an idea that is mirrored by many
 radical archives, including Interference Archive in New York, whose
-members argue that use itself is a form of preservation.[^05Chapter3_15] Pad.ma
-(Public Access Digital Media Archive) in their *Ten Theses on the
+members argue that use itself is a form of preservation.[^05Chapter3_15] Pad.ma in their *Ten Theses on the
 Archive*, further advocate for this vision of the archive:
 
 > When Henri Langlois, founder of the Cinémathèque Française, stated
@@ -459,7 +456,7 @@ Archive*, further advocate for this vision of the archive:
 
 During the *Archive Ausser Sich* conference in HKW in Berlin in 2022,
 Didi Cheeka, in his talk ‘Reclaiming Nigeria's Audiovisual Archives:
-Result & Prospects’*,* spoke about the issue of restitution of cultural
+Result & Prospects’, spoke about the issue of restitution of cultural
 items made about, or made by, formerly colonized people. He argues that
 restitution is not just about artifacts but audio-visual material too
 that needs to be returned to their country, or countries, of origin so
@@ -475,7 +472,7 @@ used as justification by archives to sit passively on their holdings,
 rather than making them actively accessible and bringing them into
 circulation.
 
-![Fig. 3.6. Screenshot of a Tweet from Archivio Grafton. Archivio Grafton](imgs/3.6.jpg)
+![Fig. 3.6. Screenshot of a Tweet from Archivio Grafton. Archivio Grafton [@ArchivioGrafton], Twitter, 04/02/2021, https://twitter.com/ArchivioGrafton/status/1357425808768385025?s=20](imgs/3.6.jpg)
 
 <br/>
 
@@ -601,7 +598,7 @@ studenti* of 1969’, *Archival Science* 12 (2012): 411–436.
     Interference Archive, 2022.
 
 [^05Chapter3_16]: Pad.ma Public Access Digital Media Archive. ‘10 Theses on the
-    Archive’, <https://pad.ma/documents/OH>*, 2010*
+    Archive’, <https://pad.ma/documents/OH>, 2010.
 
 [^05Chapter3_17]: Didi Cheeka, ’Reclaiming Nigeria's Audiovisual Archives: Result &
     Prospects’, *Haus der Kulturen der Welt (HKW)*,

@@ -113,7 +113,7 @@ When underground reporters (initially park organizers) described
 Berkeley’s People’s Park as it was being built, they did so by listing
 an inventory of objects, people, and activities the park manifested:
 ‘Flower and vegetable gardens were planted…Nursery swings and a sliding
-board appeared…old benches and newly-made ones were fine for sitting
+board appeared… old benches and newly-made ones were fine for sitting
 down and being amazed at what was happening’.[^06Chapter4_11] Wildflower and
 vegetable gardens as well as new trees, shrubs, and flowers were
 concentrated in the far west and peripheral edges of the park. Park
@@ -502,7 +502,7 @@ outside the bounds of institutionalized repositories. As the work of
 early archival activists transitioned through the emergence of the
 digital era, the motivations for preservation adapted from the
 mimeograph era in the later years of the Vietnam War era through the
-world wide web from the 1990s to the 2000s, to what some are predicting
+World Wide Web from the 1990s to the 2000s, to what some are predicting
 to be the social media decline of the 2020s. Despite more than fifty
 years passing since the first known protest park creations in 1967,
 imagery and other archived materials from the first wave are still
@@ -584,10 +584,8 @@ horizontal leadership structure, who maintains the responsibility of
 turning objects away? What is a ‘good’ object to archive? Rather than
 making administrative choices prioritizing certain materials, the
 working group accepted as much as they could. In turn, according to
-Roberts, the Occupy Wall Street Archives Working Group Collection at the
-[Tamiment Library and Wagner Labor
-Archives](http://dlib.nyu.edu/findingaids/html/tamwag/tam_630/) is now
-home to a large piece of drywall. Looking to Occupy as a contemporary
+Roberts, the Occupy Wall Street Archives Working Group Collection at the Tamiment Library and Wagner Labor
+Archives is now home to a large piece of drywall. Looking to Occupy as a contemporary
 model, what dirty, odd, and even dangerous objects might People’s Park
 archivists have collected if they had been given the opportunity? And
 would those objects have reflected more of the park’s functional or
@@ -596,7 +594,7 @@ ideological sides?
 Putting Roberts’s experience at Occupy Wall Street in conversation with
 Berkeley’s People’s Park and the broader People’s Park movement begs the
 question of the future of social movement archiving. While the archives
-retaining the most amount of records for Berkeley’s People Park remain
+retaining the most amount of records for Berkeley’s People's Park remain
 institutionalized, the social media archives these movements are
 creating continue to be socially constructed—embedded within social,
 political, and social power structures in a historical context of
@@ -702,13 +700,13 @@ Barb* 6.19 (May 10-18, 1968): 4.
 
 Berkowitz, Ben. ‘From a Single Hashtag, a Protest Circled the World’,
 *Reuters*, 18 October 2011,
-*<https://www.reuters.com/article/us-wallstreet-protests-social-idUSTRE79G6E420111018>
-*
+<https://www.reuters.com/article/us-wallstreet-protests-social-idUSTRE79G6E420111018>
+
 
 Charnigo, Laurie. ‘Occupy the OccuPAST: Echoes of Dissidence in the UPS
 Underground Newspaper Collection’, *Occupy Wall Street Library*
 (February 28, 2012),
-[*https://peopleslibrary.wordpress.com/2012/02/28/occupy-the-occupast-echoes-of-dissidence-in-the-ups-underground-newspaper-collection-pt-4-of-4/*](https://peopleslibrary.wordpress.com/2012/02/28/occupy-the-occupast-echoes-of-dissidence-in-the-ups-underground-newspaper-collection-pt-4-of-4/)
+[https://peopleslibrary.wordpress.com/2012/02/28/occupy-the-occupast-echoes-of-dissidence-in-the-ups-underground-newspaper-collection-pt-4-of-4/](https://peopleslibrary.wordpress.com/2012/02/28/occupy-the-occupast-echoes-of-dissidence-in-the-ups-underground-newspaper-collection-pt-4-of-4/)
 
 Cifor, Marika, Caswell, Michelle, Migoni, Alda Allina and Geraci, Noah.
 ‘What We Do Crosses Over to Activism: The Politics and Practice of
@@ -740,10 +738,10 @@ Drake, Jarrett. ‘RadTech Meets RadArch: Towards a New Principle for
 Archives and Archival Description’, speech at Radcliffe Workshop on
 Technology and Archival Processing (4–5 April 2016), reprinted on
 *Medium*, 7 April 2016,
-[*https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325*](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325)
+[https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325)
 
 ‘Gezi Park Occupation Liveblog’, *Mashallah News*, 31 May 2013,
-[*https://www.mashallahnews.com/gezi-park-occupation-liveblog/*](https://www.mashallahnews.com/gezi-park-occupation-liveblog/)
+[https://www.mashallahnews.com/gezi-park-occupation-liveblog/](https://www.mashallahnews.com/gezi-park-occupation-liveblog/)
 
 JAS, ‘Berkeleyans Busy Behind the “Dozers”’. *Berkeley Barb* 6.19 (May
 10–18, 1968): 9.
@@ -771,7 +769,7 @@ Technologies*, Durham: Duke University Press, 2020.
 Millow, Cortland. ‘The Soil Remembers the Barbarity of Lynching Even
 Though America Tried to Bury it’, *The Washington Post*, 23 October
 2018,
-[*https://www.washingtonpost.com/local/the-soil-remembers-the-barbarity-of-lynching-even-though-america-tried-to-bury-it/2018/10/22/d2af11c0-d631-11e8-a10f-b51546b10756\_story.html*](https://www.washingtonpost.com/local/the-soil-remembers-the-barbarity-of-lynching-even-though-america-tried-to-bury-it/2018/10/22/d2af11c0-d631-11e8-a10f-b51546b10756_story.html)
+[https://www.washingtonpost.com/local/the-soil-remembers-the-barbarity-of-lynching-even-though-america-tried-to-bury-it/2018/10/22/d2af11c0-d631-11e8-a10f-b51546b10756\_story.html](https://www.washingtonpost.com/local/the-soil-remembers-the-barbarity-of-lynching-even-though-america-tried-to-bury-it/2018/10/22/d2af11c0-d631-11e8-a10f-b51546b10756_story.html)
 
 ‘People’s Park in Chicago’, *Y.L.O.* 1, no. 4 (1969): 4.
 
@@ -785,11 +783,11 @@ Sheffield Feminist Archive’, *Archives and Records* 39.2 (2018):
 
 Terkel, Studs. ‘Interview with neighborhood residents’, Studs Terkel
 Radio Archive, released 1970,
-[*https://studsterkel.wfmt.com/programs/interview-neighborhood-residents-0*](https://studsterkel.wfmt.com/programs/interview-neighborhood-residents-0)
+[https://studsterkel.wfmt.com/programs/interview-neighborhood-residents-0](https://studsterkel.wfmt.com/programs/interview-neighborhood-residents-0)
 
 Toor, Amar. ‘How a “Lady in Red” Became the Symbol of Turkey’s Unrest’,
 *The Verge* 8 June 2013,
-[*https://www.theverge.com/2013/6/7/4405412/ceyda-sungur-lady-in-red-photo-becomes-symbol-of-turkey-protests*](https://www.theverge.com/2013/6/7/4405412/ceyda-sungur-lady-in-red-photo-becomes-symbol-of-turkey-protests)
+[https://www.theverge.com/2013/6/7/4405412/ceyda-sungur-lady-in-red-photo-becomes-symbol-of-turkey-protests](https://www.theverge.com/2013/6/7/4405412/ceyda-sungur-lady-in-red-photo-becomes-symbol-of-turkey-protests)
 
 Van der Ryn, Sim. ‘Building a People's Park’, in Kerry G. Smith (ed),
 *The Troubled Campus: Current Issues in Higher Education*, San
@@ -806,7 +804,7 @@ Twitter Usage during a Protest Movement’, *Social Networking* 5.4
 [Yelimeli](https://www.berkeleyside.org/author/supriya-yelimeli),
 Supriya. ‘UC Berkeley Halts Construction at People’s Park due to
 Protest, Occupation’, *Berkeleyside,* 3 August2022,
-[*https://www.berkeleyside.org/2022/08/03/uc-berkeley-fences-off-peoples-park-begins-construction-process*](https://www.berkeleyside.org/2022/08/03/uc-berkeley-fences-off-peoples-park-begins-construction-process)
+[https://www.berkeleyside.org/2022/08/03/uc-berkeley-fences-off-peoples-park-begins-construction-process](https://www.berkeleyside.org/2022/08/03/uc-berkeley-fences-off-peoples-park-begins-construction-process)
 
 Youmans, Greg. ‘Elsa Gidlow’s Garden: Plants, Archives, and Queer
 History’, in Amy Stone and Jaime Cantrell (eds) *Out of the Closet, into
@@ -845,7 +843,7 @@ York Press, 2015, 99–123.
 [^06Chapter4_6]: ‘People’s Park Mobile Annex (Berkeley)’, Archival Film Footage,
     KRON-TV News, Young Broadcasting of San Francisco, Inc., May 1969,
     San Francisco Bay Area Television Archive,
-    [*https://diva.sfsu.edu/collections/sfbatv/bundles/208853*](https://diva.sfsu.edu/collections/sfbatv/bundles/208853);
+    [https://diva.sfsu.edu/collections/sfbatv/bundles/208853](https://diva.sfsu.edu/collections/sfbatv/bundles/208853);
     ‘People’s Park (Berkeley)’, Film, KRON-TV, San Francisco Bay Area
     Television Archive, May 1969, <http://bit.ly/2d1wlDe>
 
@@ -858,7 +856,7 @@ York Press, 2015, 99–123.
     Keep Chuck Alive’, *Berkeley Barb* 6.19 (May 10–18, 1968): 4.
 
 [^06Chapter4_9]: Terri Compost (ed), *People’s Park: Still Blooming, 1969-2009 and
-    On*, Ann Arbor: Sheridan Books, 2009.
+    on*, Ann Arbor: Sheridan Books, 2009.
 
 [^06Chapter4_10]: Lovell, *Radical Manifest Destiny*.
 
@@ -869,7 +867,7 @@ York Press, 2015, 99–123.
     aesthetics countered mainstream suburban modern America. Sim Van der
     Ryn, ‘Building a People's Park’, in Kerry G. Smith (ed), *The
     Troubled Campus: Current Issues in Higher Education*, San Francisco:
-    Jossey-Bass, Inc., 1970: 54–71.
+    Jossey-Bass, Inc., 1970, 54–71.
 
 [^06Chapter4_13]: See photos in Ecology Action Records BANC MSS 88/126, Box 3,
     Folder ‘Chuck Herrick Peace and Freedom Park’, Bancroft Library, UC
@@ -878,7 +876,7 @@ York Press, 2015, 99–123.
 [^06Chapter4_14]: Amy Roberts, Personal Interview (24 October 2022).
 
 [^06Chapter4_15]: ‘Gezi Park Occupation Liveblog’, *Mashallah News*, 31 May 2013,
-    [*https://www.mashallahnews.com/gezi-park-occupation-liveblog/*](https://www.mashallahnews.com/gezi-park-occupation-liveblog/)
+    [https://www.mashallahnews.com/gezi-park-occupation-liveblog/](https://www.mashallahnews.com/gezi-park-occupation-liveblog/)
 
 [^06Chapter4_16]: ‘Gezi Park Occupation Liveblog’, reprinted from Gezi Medya
     Facebook Page (private).
@@ -887,7 +885,7 @@ York Press, 2015, 99–123.
 
 [^06Chapter4_18]: Amar Toor, ‘How a “Lady in Red” Became the Symbol of Turkey’s
     Unrest’, *The Verge*, 8 June 2013,
-    [*https://www.theverge.com/2013/6/7/4405412/ceyda-sungur-lady-in-red-photo-becomes-symbol-of-turkey-protests*](https://www.theverge.com/2013/6/7/4405412/ceyda-sungur-lady-in-red-photo-becomes-symbol-of-turkey-protests)
+    [https://www.theverge.com/2013/6/7/4405412/ceyda-sungur-lady-in-red-photo-becomes-symbol-of-turkey-protests](https://www.theverge.com/2013/6/7/4405412/ceyda-sungur-lady-in-red-photo-becomes-symbol-of-turkey-protests)
 
 [^06Chapter4_19]: Lovell, *Radical Manifest Destiny*.
 
@@ -898,7 +896,7 @@ York Press, 2015, 99–123.
     for Archives and Archival Description’, speech at Radcliffe Workshop
     on Technology and Archival Processing (4–5 April 2016), reprinted on
     Medium, 7 April 2016,
-    [*https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325*](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325)
+    [https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325)
 
 [^06Chapter4_22]: Laurie Charnigo, ‘Occupy the OccuPAST: Echoes of Dissidence in
     the UPS Underground Newspaper Collection’, *Occupy Wall Street
@@ -906,7 +904,7 @@ York Press, 2015, 99–123.
     <https://peopleslibrary.wordpress.com/2012/02/28/occupy-the-occupast-echoes-of-dissidence-in-the-ups-underground-newspaper-collection-pt-4-of-4/>
 
 [^06Chapter4_23]: See ‘Independent Voices‘ in the Reveal Digital online archive:
-    [*https://about.jstor.org/revealdigital/*](https://about.jstor.org/revealdigital/)
+    [https://about.jstor.org/revealdigital/](https://about.jstor.org/revealdigital/)
 
 [^06Chapter4_24]: Lovell, *Radical Manifest Destiny*;’ Kera Lovell, ‘”Everyone Gets
     a Blister’.
@@ -924,7 +922,7 @@ York Press, 2015, 99–123.
     of 8) (BB2422.1)’, KPFA, produced by Carol Amyx and Don Kaufman
     (recorded, April-June, 1969, air date, May 15, 1970), in Pacifica
     Radio Archive:
-    [*http://www.pacificaradioarchives.org/recording/bb242201*](http://www.pacificaradioarchives.org/recording/bb242201)
+    [http://www.pacificaradioarchives.org/recording/bb242201](http://www.pacificaradioarchives.org/recording/bb242201)
 
 [^06Chapter4_28]: See photos (ca. 1969), in the People's Park collection (PR 13 CN
     1978: 196), in the Library of Congress Prints and Photographs
@@ -947,7 +945,7 @@ York Press, 2015, 99–123.
 
 [^06Chapter4_34]: Ben Berkowitz, ‘From a Single Hashtag, A Protest Circled the
     World’, *Reuters*, 18 October 2011,
-    [*https://www.reuters.com/article/us-wallstreet-protests-social-idUSTRE79G6E420111018*](https://www.reuters.com/article/us-wallstreet-protests-social-idUSTRE79G6E420111018);
+    [https://www.reuters.com/article/us-wallstreet-protests-social-idUSTRE79G6E420111018](https://www.reuters.com/article/us-wallstreet-protests-social-idUSTRE79G6E420111018);
     for a scientific study on the uses of Twitter during the Occupy Wall
     Street protest, see Zuoming Wang and Kara Caskey,
     ‘\#Occupywallstreet: An Analysis of Twitter Usage during a Protest
@@ -961,19 +959,19 @@ York Press, 2015, 99–123.
     Yelimeli](https://www.berkeleyside.org/author/supriya-yelimeli), ‘UC
     Berkeley Halts Construction at People’s Park Due to Protest,
     Occupation’, *Berkeleyside*, 3 August 2022,
-    [*https://www.berkeleyside.org/2022/08/03/uc-berkeley-fences-off-peoples-park-begins-construction-process*](https://www.berkeleyside.org/2022/08/03/uc-berkeley-fences-off-peoples-park-begins-construction-process)
+    [https://www.berkeleyside.org/2022/08/03/uc-berkeley-fences-off-peoples-park-begins-construction-process](https://www.berkeleyside.org/2022/08/03/uc-berkeley-fences-off-peoples-park-begins-construction-process)
 
 [^06Chapter4_37]: Thepeoples\_park \[@thepeoples\_park\], Video ‘Thank you Arthur’,
     Instagram*,* 5 September 2022,
-    [*https://www.instagram.com/reel/CiHmh3FvokO/?igshid=OGQ2MjdiOTE=*](https://www.instagram.com/reel/CiHmh3FvokO/?igshid=OGQ2MjdiOTE=)
+    [https://www.instagram.com/reel/CiHmh3FvokO/?igshid=OGQ2MjdiOTE=](https://www.instagram.com/reel/CiHmh3FvokO/?igshid=OGQ2MjdiOTE=)
 
 [^06Chapter4_38]: Thepeoples\_park \[@thepeoples\_park\], Photo ‘People’s Park
     Disorientation Weekend| Part1’, Instagram, 3 September 2022,
-    [*https://www.instagram.com/p/CiKNeAQPEeo/?igshid=OGQ2MjdiOTE=*](https://www.instagram.com/p/CiKNeAQPEeo/?igshid=OGQ2MjdiOTE=)
+    [https://www.instagram.com/p/CiKNeAQPEeo/?igshid=OGQ2MjdiOTE=](https://www.instagram.com/p/CiKNeAQPEeo/?igshid=OGQ2MjdiOTE=)
 
 [^06Chapter4_39]: Thepeoples\_park \[@thepeoples\_park\], Photo ‘Thank you to
     everybody’, Instagram, 3 October 2022,
-    *<https://www.instagram.com/p/CjOTDwAvR9B/?igshid=OGQ2MjdiOTE>=*
+    <https://www.instagram.com/p/CjOTDwAvR9B/?igshid=OGQ2MjdiOTE>=
 
 [^06Chapter4_40]: Derrida, *Archive Fever*, 91.
 
@@ -990,7 +988,7 @@ York Press, 2015, 99–123.
 [^06Chapter4_44]: Cortland Millow, ‘The Soil Remembers the Barbarity of Lynching
     even though America Tried to Bury it’, *The Washington Post*, 23
     October 2018,
-    [*https://www.washingtonpost.com/local/the-soil-remembers-the-barbarity-of-lynching-even-though-america-tried-to-bury-it/2018/10/22/d2af11c0-d631-11e8-a10f-b51546b10756\_story.html*](https://www.washingtonpost.com/local/the-soil-remembers-the-barbarity-of-lynching-even-though-america-tried-to-bury-it/2018/10/22/d2af11c0-d631-11e8-a10f-b51546b10756_story.html).
+    [https://www.washingtonpost.com/local/the-soil-remembers-the-barbarity-of-lynching-even-though-america-tried-to-bury-it/2018/10/22/d2af11c0-d631-11e8-a10f-b51546b10756\_story.html](https://www.washingtonpost.com/local/the-soil-remembers-the-barbarity-of-lynching-even-though-america-tried-to-bury-it/2018/10/22/d2af11c0-d631-11e8-a10f-b51546b10756_story.html).
 
 [^06Chapter4_45]: Greg Youmans, ‘Elsa Gidlow’s Garden: Plants, Archives, and Queer
     History’, in Amy Stone and Jaime Cantrell (eds), *Out of the Closet,

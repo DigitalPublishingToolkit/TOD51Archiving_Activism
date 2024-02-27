@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-#Archiving Activism in the Digital Age
+# Archiving Activism in the Digital Age
 
 <div style="page-break-after: always"></div>
 
@@ -66,7 +66,7 @@ Subscribe to the INC newsletters: <br/>
 
 This publication is licensed under the Creative Commons Attribution
 NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit
-[www.creativecommons.org/licences/by-nc-sa/4.0./](www.creativecommons.org/licences/by-nc-sa/4.0./).
+[www.creativecommons.org/licences/by-nc-sa/4.0./](www.creativecommons.org/licences/by-nc-sa/4.0./)
 
 
 

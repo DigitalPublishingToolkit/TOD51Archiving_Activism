@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 05. VIBRANT ARCHIVES. ARCHIVING AFGHAN EXILE ART AND ACTIVISM ON INSTAGRAM
+# 05. VIBRANT ARCHIVES: ARCHIVING AFGHAN EXILE ART AND ACTIVISM ON INSTAGRAM
 
 ### ANN-KATRINE SCHMIDT NIELSEN 
 
@@ -318,7 +318,7 @@ profile under their own name, Khademi has two – one solely dedicated to
 art and one with a more mixed content. The following table provides an
 overview of the profiles:[^07Chapter5_34]
 
-  Username         Active since   Number of followers   Number of posts   Bio text
+  **Username**         **Active since**   **Number of followers**   **Number of posts**   **Bio text**
   ---------------- -------------- --------------------- ----------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   radaakbar        10.2012        9,970                 396               Conceptual artist. Photographer. Founder @abarzanan. www.abarzanan.com
   shamsiahassani   01.2015        256,000               508               Official Instagram profile of Shamsia Hassani (شمسیه حسنی) the Afghan graffiti/street artist. For inquiries, contact: shah@shamsiahassani.net www.shamsiahassani.net/
@@ -362,7 +362,7 @@ secondary profile, and Akbar 16; I will also address Khademi and Akbar’s
 use of the story function. The posts present a variety of content with a
 majority focusing on recording artistic processes, presenting finished
 artworks, and promoting upcoming exhibitions. I will use my analysis,
-however, to show the different types of recordmaking and -keeping
+however, to show the different types of recordmaking and recordkeeping
 carried out on the four social media accounts: the documentation of
 site-specific and/or destroyed art works, the creation and circulation
 of critical performances, and the use of digital texts as repositories
@@ -373,11 +373,11 @@ all three do not use the platform for *curation and documentation*,
 
 ## Analysis
 
-*Documenting disappearing lines of flight*
+#### Documenting disappearing lines of flight
 
 On September 16, 2021, street artist and former art lecturer at Kabul
 University Shamsia Hassani posted two pictures and a text on her
-Instagram profile (fig. 5.1.). The first picture is split in two and
+Instagram profile (fig. 5.1). The first picture is split in two and
 shows a ‘before’: a mural of a woman with a burqa-like head-attire but a
 bared neck and a red, glittering heart on top of her black dress, and an
 ’after’: a whitewashed wall. The second picture shows the artist next to
@@ -487,7 +487,7 @@ evident when we turn to Kubra Khademi’s performative challenges to the
 exclusionary logics of both the traditional archive and the social media
 platforms themselves.
 
-## Creating and circulating change
+#### Creating and circulating change
 
 In the introduction, I touched upon the performance *Les Héroïnes
 d’aujourd’hui* where Khademi showed support for four Afghan women’s
@@ -565,7 +565,7 @@ of dollars of Afghanistan’s frozen funds to American victims of terror:
 
 The original post was removed by Instagram. Khademi, however, reposted
 not only the original picture but also the entire communication behind
-the removal in which Instagram in a standard communication formula
+the removal in which Instagram, in a standard communication formula,
 informed Khademi of community guidelines. By reposting screenshots of
 the original post as well as Instagram’s request, Khademi makes an
 obvious statement against Instagram guidelines to which she refuses to
@@ -655,7 +655,7 @@ of the home country and, even if they are not explicitly critical or
 activist, they provide a means of restructuring and transforming the
 media induced view of Afghanistan. They become an affectively powerful
 part of the counter-archive formed by the artists’ perpetual digital
-recordmaking and -keeping.
+recordmaking and recordkeeping.
 
 ## Conclusion
 
@@ -677,8 +677,8 @@ stability of the traditional archive. Instagram profiles are, certainly,
 not eternal and the records made and kept on this platform are
 vulnerable due to the dependency on commercial tech companies and the
 continued investments and evaluations of the activist artists. Instead
-of disregarding the prosaic but highly self-conscious record-making and
--keeping performed by the three artists on Instagram as not forming a
+of disregarding the prosaic but highly self-conscious recordmaking and
+recordkeeping performed by the three artists on Instagram as not forming a
 *proper* archive, we might see it as an invitation to think more about
 practices than institutions, that is about supplementary forms of
 *archiving* rather than *archives*. Archiving can no longer be viewed as
@@ -744,7 +744,7 @@ Stories with Digital Methods’, *New Media & Society* 23 (2021):
 3656–3676.
 
 Beer, David. ‘*Archive Fever* Revisited. Algorithmic Archons and the
-Ordering Of Social Media’ in Leah Lievrouw and Brian Loader (eds),
+Ordering of Social Media’ in Leah Lievrouw and Brian Loader (eds),
 *Routledge Handbook of Digital Media and Communication*, London-New
 York: Routledge, 2020, 99–111.
 
@@ -830,8 +830,8 @@ parisienne du nom d'héroïnes afghanes’, *Le Figaro*, 1 February 2022,
 Mohanty, Chandra Talpade. ‘Under Western Eyes. Feminist Scholarship and
 Colonial Discourse’, *Feminist Review* 30 (1988): 61–88.
 
-Montagu, Jemima. ‘Contemporary Visual Art in Afghanistan: “An Art Of
-Laughter And Forgetting ... ”’, in Michaela Crimmin and Elizabeth
+Montagu, Jemima. ‘Contemporary Visual Art in Afghanistan: “An Art of
+Laughter and Forgetting...”’, in Michaela Crimmin and Elizabeth
 Stanton (eds), *Art and Conflict*, London: Royal College of Art, 2014,4
 4–54.
 
@@ -855,7 +855,7 @@ Rokay, Moska. ‘Critical Ethnography as an Archival Tool. A Case Study of
 the Afghan Diaspora in Canada’, *Archivaria* 91 (2021): 176–201.
 
 Rose, Morag. ‘Catcalls and Cobblestones: Gendered Limits on Women
-Walking’, in Samuel Burgum & Katie Higgins (eds) *How the Other Half
+Walking’, in Samuel Burgum and Katie Higgins (eds) *How the Other Half
 Lives*, Manchester: Manchester University Press, 2022, 100–115.
 
 Rukhshana Media, ‘Taliban Banned Playing Music in Wedding Halls in
@@ -936,7 +936,7 @@ Weber, Christina Papsø. ’Når burkaen bliver politisk’, *Periskop* 17
     Art Praxis in Kabul*, PhD dissertation, Sidney: University of
     Technology Sidney, 2020.
 
-[^07Chapter5_13]: Bilquis Ghani, ‘*Their Soul Listens’*, 93.
+[^07Chapter5_13]: Ghani, ‘*Their Soul Listens’*, 93.
 
 [^07Chapter5_14]: Sujatha Fernandes, *Curated Storytelling*, Oxford: Oxford
     University Press, 2017; Chandra Talpade Mohanty, ‘Under Western
@@ -983,7 +983,7 @@ Weber, Christina Papsø. ’Når burkaen bliver politisk’, *Periskop* 17
     being unarchivable by design’. Anat Ben-David, ‘Counter-archiving
     Facebook’, *European Journal of Communication* 35 (2020): 251.
 
-[^07Chapter5_26]: David Beer, ‘*Archive Fever* Revisited’, 107; Helle Strandgard
+[^07Chapter5_26]: Beer, ‘*Archive Fever* Revisited’, 107; Helle Strandgard
     Jensen, ’Digitale arkiver som medskabere i ny historieskrivning’, in
     Kirstner Drotner and Sara Mosberg Iversen (eds), *Digitale metoder.
     At skabe, analysere og dele data*, Copenhagen: Samfundslitteratur,
@@ -992,7 +992,7 @@ Weber, Christina Papsø. ’Når burkaen bliver politisk’, *Periskop* 17
 [^07Chapter5_27]: Rebecka Taves Sheffield, ‘Facebook Live as a Recordmaking
     Technology’, *Archivaria* 85 (2018): 101.
 
-[^07Chapter5_28]: Sheffield, ‘Facebook Live’: 96–120.
+[^07Chapter5_28]: Sheffield, ‘Facebook Live’
 
 [^07Chapter5_29]: Cara Levey, ‘Archiving the Repertoire, Performing the Archive:
     Virtual Iterations of Second-generation Activism in
@@ -1057,7 +1057,7 @@ Weber, Christina Papsø. ’Når burkaen bliver politisk’, *Periskop* 17
 
 [^07Chapter5_40]: Hassani in Cristina Burack, ‘Shamsia Hassani: The Afghan Female
     Graffiti Artist Capturing Women's Voices’, *Made for Minds*, 19
-    August 2021, https://p.dw.com/p/3zA86.
+    August 2021, https://p.dw.com/p/3zA86
 
 [^07Chapter5_41]: Edward Thornton, ‘On Lines of Flight: The Theory of Political
     Transformation in *A Thousand Plateaus*’, *Deleuze and Guattari
@@ -1102,9 +1102,8 @@ Weber, Christina Papsø. ’Når burkaen bliver politisk’, *Periskop* 17
 
 [^07Chapter5_53]: Cvetkovich, *An Archive of Feelings*, 9.
 
-[^07Chapter5_54]: Lucia Bainotti, Alessandro Caliandro and Alessandro Gandini,
-    ‘From Archive Cultures to Ephemeral Content, and Back: Studying
-    Instagram Stories with Digital Methods’, *New Media & Society* 23
+[^07Chapter5_54]: Bainotti, Caliandro and Gandini,
+    ‘From Archive Cultures to Ephemeral Content.’, *New Media & Society* 23
     (2021): 3656–3676.
 
 [^07Chapter5_55]: MacDowall and de Souza, ‘”I’d Double Tap That!!”: 7–8.

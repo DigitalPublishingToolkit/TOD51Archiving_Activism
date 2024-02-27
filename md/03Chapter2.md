@@ -194,7 +194,7 @@ an organized online public archive would be difficult considering the
 dynamism of the period and our conditions as we were at the first stage
 of publicizing an activist video collection.
 
-It took a long time to start using pan.do/ra because immediately after
+It took a long time to start using pan.do/ra because, immediately after
 the police evacuated Gezi Park, the collective’s structure also changed.
 We left our temporary office near the park, and some members returned to
 their jobs. However, those who were still willing to record the
@@ -309,7 +309,7 @@ environment and maintaining human and non-human relations. Alam and
 Houston thus discuss care as an alternate infrastructure. They claim
 that the ‘feminist ethics of care shift away from the universal,
 abstract, principles of morality and justice’ and advocate for ‘more
-attention to ‘a situated response to unjust situations’ by recognizing
+attention to "a situated response to unjust situations" by recognizing
 the relational, interdependent and unequal capacities of care
 actors’.[^04Chapter2_23]
 
@@ -435,7 +435,7 @@ contributing to using the archive, uploading videos, and participating
 in making the archive, and some contributed to the archive with their
 own collections and video footage of specific political events.
 
-A guerilla tv network, *Sendika TV* (Syndicate TV),[^04Chapter2_32] gave us tapes,
+A guerrilla tv network, *Sendika TV* (Syndicate TV),[^04Chapter2_32] gave us tapes,
 video CDs, and digital video discs that had been rescued from police
 raids in the basement of their office in Ankara. They asked us to
 digitalize the videotapes and upload them on bak.ma with the rest of the
@@ -459,7 +459,7 @@ movements in Turkey since it not only expressed a class-conscious
 politics and solidarity but also conquered fears around occupying and
 commoning in public spaces.
 
-![Still from bak.ma, excerpt from screenshot of the video file
+![Fig. 2.2. Still from bak.ma, excerpt from screenshot of the video file
 ‘Tekel İşçileri Direnişi Kayıtları 23 / Tekel Workers Resistance
 Recordings 23’, (bak.ma 2015). All content on bak.ma is available under
 the terms of the Creative Commons Attribution-ShareAlike 3.0 License.](imgs/2.2.jpg)
@@ -498,7 +498,7 @@ ethical orientation. For me, the bak.ma collections are about rights and
 justice as much as they are about affect.
 
 Collecting and collating footage as well as the archival work of
-record-making and -keeping lead to interlacing affective relations with
+recordmaking and recordkeeping lead to interlacing affective relations with
 the content, its creators, and their collaborations. Similarly, in the
 ‘10 Theses on the Archive’, co-founders of Pad.ma suggest we think of
 the ‘affective potential’ of the archive as there is ‘both a political
@@ -639,7 +639,7 @@ Alam, Ashraful and Houston, Donna. ‘Rethinking Care as Alternate
 Infrastructure’, *Cities* 100 (2020): 1–10.
 
 Amnesty International (2013). ‘Gezi Park Protests: Brutal Denial of the
-Right to Peaceful Assembly in Turkey’. 2 October 2013,
+Right to Peaceful Assembly in Turkey’, 2 October 2013,
 <https://www.amnesty.org/en/documents/eur44/022/2013/en/>
 
 Anand, Shaina. ‘10 Thesis on the Archive’ in Özge Çelikaslan, Alper Şen
@@ -730,11 +730,11 @@ Pad.ma Public Access Digital Media Archive. ‘About’, *Pad.ma*,
     <http://uchicagogate.com/articles/2022/1/4/why-monopolies-rule-internet-and-how-we-can-stop-them/>
 
 [^04Chapter2_8]: Pad.ma (Public Access Digital Media Archive),
-    <https://pad.ma/home>.
+    <https://pad.ma/home>
 
-[^04Chapter2_9]: Pan.do/ra, <http://pan.do/ra>.
+[^04Chapter2_9]: Pan.do/ra, <http://pan.do/ra>
 
-[^04Chapter2_10]: Pad.ma, ‘About’, <https://pad.ma/about>.
+[^04Chapter2_10]: Pad.ma, ‘About’, <https://pad.ma/about>
 
 [^04Chapter2_11]: Thousands of people attended funerals and commemorations for
     Berkin Elvan, a 14-year-old boy shot in the head by a tear gas
@@ -750,7 +750,7 @@ Pad.ma Public Access Digital Media Archive. ‘About’, *Pad.ma*,
     Medeni Yıldırım. For further information, see ‘Amnesty
     International’s Gezi Park Report’, 2013,
     <https://www.amnesty.org/en/documents/eur44/022/2013/en/> and Bianet
-    Independent Communication Network, <https://m.bianet.org/konu/gezi>.
+    Independent Communication Network, <https://m.bianet.org/konu/gezi>
 
 [^04Chapter2_12]: Poster: ‘Urgent: I haven’t washed for two days, send a TOMA
     \[Police Water Canon Vehicle\] here’.
@@ -759,11 +759,11 @@ Pad.ma Public Access Digital Media Archive. ‘About’, *Pad.ma*,
     Korkut, ‘Introduction’ in Aidan McGarry, Itir Erhart, Hande
     Eslen-Ziya, Olu Jenzen and Umut Korkut (eds), *The Aesthetics of
     Global Protest Visual Culture and Communication*, Amsterdam:
-    Amsterdam University Press, 2020, 15–38.
+    Amsterdam University Press, 2020, 13.
 
 [^04Chapter2_14]: In the (Turkish language) video, ‘Neden Gezi Parkındayız?’ (Why
     Are We in Gezi Park?), protestors respond to the question,
-    https://bak.ma/ASV/player.
+    https://bak.ma/ASV/player
 
 [^04Chapter2_15]: Seyri Sokak (Street Watch), Videoccupy, İnadına Haber (News
     Out-of-Spite), Çapul TV (Loot TV), Naber Medya (What’s up Media),
@@ -777,14 +777,14 @@ Pad.ma Public Access Digital Media Archive. ‘About’, *Pad.ma*,
     Participation: Interviews and Essays.*, Istanbul: COST Action IS0906
     Transforming Audiences, Transforming Societies, 2014, 10–14.
 
-[^04Chapter2_17]: Doğanay and Kara ‘’Video Activism in Turkey’: 10.
+[^04Chapter2_17]: Doğanay and Kara ‘’Video Activism in Turkey’, 10.
 
 [^04Chapter2_18]: Özge Özdüzen, ‘Bearing Witness to Authoritarianism and Commoning
     through Video Activism and Political Film-making after the Gezi
     Protests’, in Aidan McGarry, Itir Erhart, Hande Eslen-Ziya, Olu
     Jenzen and Umut Korkut (eds), *The Aesthetics of Global Protest
     Visual Culture and Communication*, Amsterdam: Amsterdam University
-    Press, 2020, 191–210.
+    Press, 2020, 201.
 
 [^04Chapter2_19]: vidyokolektif YouTube page,
     <https://www.youtube.com/channel/UC6wxs6-4tb9vYGmj8E4cuXA/videos>
@@ -794,7 +794,7 @@ Pad.ma Public Access Digital Media Archive. ‘About’, *Pad.ma*,
     Care: Work and Identity in Women’s Lives*, Albany: SUNY Press, 1990,
     35–62.
 
-[^04Chapter2_21]: Fisher and Toronto, ‘Toward a Feminist Theory’: 40.
+[^04Chapter2_21]: Fisher and Toronto, ‘Toward a Feminist Theory’, 40.
 
 [^04Chapter2_22]: Ashraful Alam and Donna Houston, ‘Rethinking Care as Alternate
     Infrastructure’, *Cities* 100 (2020): 1–10.
@@ -827,11 +827,11 @@ Pad.ma Public Access Digital Media Archive. ‘About’, *Pad.ma*,
     https://bak.ma/documents/YY. The original article (in Turkish),
     ‘Ölüm Orucu – Notlar’, Birikim 88,
     <https://birikimdergisi.com/dergiler/birikim/1/sayi-88-agustos-1996/2285/olum-orucu-notlar/3180>
-    .
+    
 
 [^04Chapter2_30]: For example, the other two pan.do/ra archives that have political
     activist content – 858.ma: An Archive of Resistance and leftove.rs
-    ^–^ do not allow their users to upload any files; they provide only
+    – do not allow their users to upload any files; they provide only
     viewing and downloading data. On 858.ma, a tutorial for visitors
     explains how to use the archive to search and play the videos. Users
     have the option to create personal lists by signing up, a feature
@@ -874,7 +874,7 @@ Pad.ma Public Access Digital Media Archive. ‘About’, *Pad.ma*,
 
 [^04Chapter2_36]: Alexandrina Buchanan and Michelle Bastian, ‘Activating the
     Archive: Rethinking the Role of Traditional Archives for Local
-    Activist Projects’, *Archival Science* 15 (2015): 429–451.
+    Activist Projects’, *Archival Science* 15 (2015): 430.
 
 [^04Chapter2_37]: Marika Cifor, ‘Affecting Relations: Introducing Affect Theory to
     Archival Discourse’, *Archival Science* 15 (2015): 1–25.
@@ -883,7 +883,7 @@ Pad.ma Public Access Digital Media Archive. ‘About’, *Pad.ma*,
 
 [^04Chapter2_39]: Shaina Anand, ‘10 Thesis on the Archive’ in Özge Çelikaslan,
     Alper Şen and Pelin Tan (eds) *Autonomous Archiving*, Barcelona:
-    dpr-barcelona, 2016, 79–97.
+    dpr-barcelona, 2016, 87.
 
 [^04Chapter2_40]: Duygu Doğan and Sidar Bayram, ‘Görsel Kayıtlar Hesap Sorabilir
     mi?: İnsan Hakları Arşivleri ve Geçiş Dönemi Adaleti’ in *Türkiye’de

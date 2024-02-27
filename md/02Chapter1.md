@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 
 ## Memory and activism
 
-![Fig. 1.1.: ‘So that this is not forgotten – Archive’ courtesy of archivo15M – Soc1edad 5ivil en Movimiento](imgs/1.1.jpg)  
+![Fig. 1.1. ‘So that this is not forgotten – Archive’ (courtesy of archivo15M – Soc1edad 5ivil en Movimiento).](imgs/1.1.jpg)  
 
 <br/>
 
@@ -76,7 +76,7 @@ history of the 15M movement is written on a support made for short-lived
 reminders (and indeed the words ‘para que’ are already fading). But the
 words do persist: digitized and preserved in the 15M Archive, these
 vulnerable materials are now available in digital form as the cover
-picture for the minutes of the physical archive commission assemblies.
+picture for the minutes of the physical meetings of the archive commission.
 
 Together with the minutes of their many meetings, the sticky note with
 its memorializing message reflects the labour and ambitions of the 15M
@@ -91,7 +91,7 @@ memory and activism are more intimately entangled than hitherto
 surmised; and that archiving has been a way for activists to constitute
 themselves as mnemonic communities as well as political actors.
 
-The question how people articulate past, present and future in making
+The question of how people articulate past, present and future in making
 sense of the world has been studied from different perspectives.[^03Chapter1_5] But
 how different temporalities play into struggles for social change has,
 until quite recently, been a neglected issue in both memory and social
@@ -102,7 +102,7 @@ contention as being at the heart of democratic societies.[^03Chapter1_6] In that
 context, the concept of a memory-activism nexus has been proposed[^03Chapter1_7] as
 a heuristic framework, entailing the study of the interplay between
 *memory activism* (concerted attempts to change dominant narratives),
-the *memory of activism* (how later activism is remembered and
+the *memory of activism* (how activism is later remembered and
 transmitted across a variety of cultural forms) and *memory in activism*
 (how memory, specifically of earlier movements, informs later ones).
 Within social movement studies,[^03Chapter1_8] the ‘movement-memory nexus’ has been
@@ -111,9 +111,8 @@ movements are archived, by themselves and by others, promises to add a
 new dimension to these discussions. Not just by highlighting archiving
 as a specific future-oriented mnemonic practice but one that may, in
 certain hands, be considered a specifically activist one. That activist
-mnemonic practice doesn’t answer to current definition of ‘memory
-activism’, which emphasizes challenges to dominant narratives; here the
-mnemonic activism is directed instead towards providing the condition
+mnemonic practice doesn’t answer to the current definition of ‘memory
+activism’, which emphasizes challenges to dominant narratives; here mnemonic activism is directed instead towards providing the conditions
 for activism to be remembered in the future.
 
 Archives – as concept, as cultural phenomenon, and as resource – have
@@ -151,7 +150,7 @@ sciences, like herself, who think of archives in the plural as dynamic
 sites of knowledge production, and cultural theorists who have tended to
 use the term in the singular and with a capital ‘A’ in line with
 influential work by Michel Foucault and Jacques Derrida.[^03Chapter1_14] While our
-collection is interested above all of the nuts and bolts of archiving in
+collection is interested above all in the nuts and bolts of archiving in
 the plural, it takes from more philosophical approaches some fundamental
 insights into the nature of archives in order to frame our understanding
 of archiving as a mnemonic practice.
@@ -187,9 +186,9 @@ narrativized – at a later point in time. ‘The archive, therefore, can be
 described as a space that is located on the border between forgetting
 and remembering, its materials are preserved in a state of latency, in a
 space of intermediary storage (*Zwischenspeiche*r)’.[^03Chapter1_18] Against this
-background, Assmann argues further that the more that institutionalized
-archives are tailor made to match hegemonic narratives (‘canonical
-memory’) the more they took on the character of ‘political archives’. In
+background, Assmann argues further that the more institutionalized
+archives are tailor-made to match hegemonic narratives (‘canonical
+memory’) the more they take on the character of ‘political archives’. In
 more democratic societies, in contrast, the archive is ideally
 constituted in a more open way as truly ‘historical archives’ that can
 become in the long-term a resource for alternative narratives: ‘Where
@@ -204,11 +203,8 @@ between raw data and its interpretation and narrativization. Her
 distinction between latent and working memory implies that the dynamics
 of memory-making are oriented towards the future as well as past even if
 that future is, as yet, undetermined or merely aspirational. In this,
-she echoes Derrida: ‘\[T\]he question of the archive is not, I repeat, a
-question of the past…but rather a question of the future, the very
-question of the future, question of a response, of a promise and of a
-responsibility for tomorrow. The archive: if we want to know what this
-will have meant, we will only know tomorrow’.[^03Chapter1_20] What both theorists
+she echoes Derrida: ‘\[T\]he question of the archive is not, we repeat, a question of the past […but] a question of the future, the question of the future itself, the question of a response, of a promise and of a responsibility
+for tomorrow. The archive: if we want to know what that will have meant, we will only know in times to come'.[^03Chapter1_20] What both theorists
 share is a belief that the boundaries of an archive are porous and that
 archives are not fortresses but rather changing in their meaning and
 composition as part of a larger ecology. This fundamental principle has
@@ -233,7 +229,7 @@ to ‘a right to memory’ has become more widespread and paved the way for
 new historiographical and archival practices aiming for greater
 inclusivity. A milestone in this development was the emergence of oral
 history as a method to capture histories that were nowhere preserved in
-the form of written record and often linked to the experiences of people
+the form of written records and often linked to the experiences of people
 without cultural capital who figured only in criminal and medical
 records.[^03Chapter1_22] The ‘right to (the) archive’ has also been taken
 literally. Archives have been extending the scope of their collecting
@@ -247,7 +243,7 @@ public facing.
 Moreover, archiving occurs increasingly outside the framework of
 heritage institutions. The number of new citizen-based community
 archives is rapidly increasing and such concepts as ‘living archives’,
-‘community archives’ and ‘autonomous archives’[^03Chapter1_23] becoming common
+‘community archives’ and ‘autonomous archives’[^03Chapter1_23]are becoming common
 currency in critical archival studies.[^03Chapter1_24] Carried in part by skilled
 ‘pro-ams’,[^03Chapter1_25] community archives have become one of the pillars in
 constituting group identity both to its own members and to the outside
@@ -262,7 +258,7 @@ have also increasingly recognised that archival collections are not only
 a source of information but can also be a focus for affective investment
 and hence a repository of shareable feelings and emotions.[^03Chapter1_28] Indeed,
 the very labour involved in collecting, ordering, making accessible, and
-caring for the records in the archive acts has been seen as an agent of
+caring for the records in the archive has been seen as an agent of
 community-building especially when the resources being archived are
 material ones, hence requiring the physical presence of their guardians
 at a designated place.
@@ -270,7 +266,7 @@ at a designated place.
 The value attached to public participation reflects the democratization
 that has been affecting many fields of cultural production and, in the
 case of archiving, has fostered new ideas about ownership,
-stakeholdership, and accountability, and idea that involved citizens
+stakeholdership, and accountability, and the belief that involved citizens
 should have the possibility of making their own records about their own
 experiences. The downside of this extension of the ‘right to (the)
 archive’ means that the relevant know-how (in terms of archival
@@ -292,7 +288,7 @@ rather than fixed.[^03Chapter1_31]
 
 More could be said about current theories of archiving both within the
 field of information science and humanities at large, but enough has
-been hopefully said (1) to definitively dismiss the idea their being a
+been hopefully said (1) to definitively dismiss the idea of their being a
 monolithic ‘archive’ that represents an exclusive and state-sponsored
 form of knowledge; (2) to support the idea that we can better think of
 *archiving* (note the verbal form) in the plural as a multi-sited and
@@ -313,7 +309,7 @@ outlined above. Since the 1990s, the right to (the) archive found a
 powerful tool in the digital and the internet, with their promise of
 unlimited and affordable possibilities for storing, reproducing and
 making available not only written texts, but also visual, audio, and
-audio-visual information. Digitisation in its various facets has meant
+audio-visual information. Digitization in its various facets has meant
 that information can be easily replicated but, more importantly, that
 control over the means of archival production is no longer the privilege
 of institutions but open to all those who care about certain topics or
@@ -330,8 +326,8 @@ to public space (see Ann-Katrine Schmidt Nielsen’s chapter below). The
 term ‘media activism’ captures this new arena, which offers new
 opportunities for groups who because of disability or geographical
 distance have otherwise no easy access to the usual repertoire of
-contention to the extent that this relies on physical presence (see
-Pollaert and Van Trigt’s chapter below).
+contention to the extent that this relies on physical presence (see Eline
+Pollaert and Paul van Trigt’s chapter below).
 
 Moreover, digitization has also changed the nature of embodied activism.
 As Castells has argued, these have become ‘hybrid’: demonstrations are
@@ -340,7 +336,7 @@ carried out on-site and, crucially for our topic here, rely on digital
 technologies to record their own actions.[^03Chapter1_33] The ease with which
 contemporary campaigns can be recorded – with the possibility of
 capturing sound, movement, and visuals greatly enhanced – means that
-recent protest organically create enormous quantities of images (and
+recent protest organically creates enormous quantities of images (and
 hence generates one of the most important preconditions for archiving:
 the availability of information).
 
@@ -348,7 +344,7 @@ The Global Justice movement, starting in the late 1990s with the
 protests in Seattle[^03Chapter1_34] and continuing in Genoa in 2001,[^03Chapter1_35] was
 arguably the first ‘born digital’ movement[^03Chapter1_36] to integrate digital
 recording into the ‘repertoire of contention’. Accordingly, when the
-Italian police raided the Social Forum headquarter and media centre
+Italian police raided the Social Forum headquarters and media centre
 during the protests against the G8 summit in Genoa in July 2001, their
 first target was the servers and materials that media activist
 organizations – among them Indymedia, a global network of independent
@@ -369,7 +365,7 @@ networks of solidarity.[^03Chapter1_37]
 Mike Lukovitch’s cartoon on the Wave of Green movement in Iran in 2009
 illustrates well how the presence of recording devices increasingly
 shaped interactions between protesters and police throughout the 2000s.
-Reworking the famous photo of the Tankman in Tiananmen Square in 1989,
+Reworking the famous photo of the Tank Man in Tiananmen Square in 1989,
 Lukovitch highlights the role that smartphones and social media
 platforms were believed to be playing in the Iranian protests.
 
@@ -383,9 +379,9 @@ own terms as it is unfolding but also in the future. For that to happen,
 however, ephemeral materials need to be preserved and made accessible in
 the long-term; in other words, archived. It is no coincidence then that
 movements have started to set up their own archives and, indeed, to
-integrate archiving along with recording in the repertoire of
+integrate archiving along with recording into the repertoire of
 contention. Memory work is not something that occurs after the fact, but
-is already integrate into movements as they anticipate how their actions
+is already integrated into movements as they anticipate how their actions
 may inspire new forms of protest and give the movement and its message
 an afterlife.
 
@@ -422,7 +418,7 @@ for its own supporters as they seek to imagine the movement as a whole
 from the ground up; but also, most importantly, for later
 generations.[^03Chapter1_44] Struggles to control the narrative occur as events are
 unfolding but are also prolonged in struggles about how best to remember
-it. Having one’s own archive offers a bulwark against absorption into
+them. Having one’s own archive offers a bulwark against absorption into
 hegemonic narratives and a bolthole for keeping alive the memory of the
 hopes that inspired the movement. Claiming the title 'archive' can give
 greater authority and credibility to a group's materials and, by
@@ -434,7 +430,7 @@ compared them poetically to Noah’s Ark in that they keep a movement’s
 energy in place until such time as a later generation will reactivate
 it: ‘Under these circumstances the drive to archive, to construct a
 little ark of political covenant in the hope that at some future date,
-it may be opened under/more hospitable circumstances, is correspondingly
+it may be opened under more hospitable circumstances, is correspondingly
 intense’.[^03Chapter1_48] This drive towards archiving activism with an eye to its
 future influence brings memory work and activism into a very close
 alliance: archiving in such circumstances becomes an integral part of
@@ -448,7 +444,7 @@ lasting evidence of its worthiness, unity, numbers and commitment or
 what Tilly has called a movement’s WUNC.[^03Chapter1_50]
 
 One way or another, archiving has become such a significant part of
-recent social movements that skills in recordmaking and recordkeeping is
+recent social movements that skills in recordmaking and recordkeeping are
 now seen as a part of the repertoire of contention itself.[^03Chapter1_51] The term
 ‘archival activism’ reflects the idea that managing the records of a
 movement extends that movement, and constitutes a form of activism by
@@ -483,7 +479,7 @@ autonomy and expertise, mentioned earlier in relation to community
 archives, plays out in an acute way in the case of social movements. As
 Message shows with respect to OWS, suspicion of parasitic cultural
 institutions eager to collect memorabilia with a view to exhibiting
-them, fear of the consequences of cooperation with existing institutions
+them and fear of the consequences of cooperation with existing institutions
 for the status of the materials collected fed into the desire for
 autonomy.[^03Chapter1_56] As Kera Lovell shows below in relation to the People’s
 Park movement, the possibility of making digital copies of vulnerable
@@ -512,8 +508,8 @@ aims to provide a long-term perspective on a particular movement.
 
 The tension between institutions and ‘rogues’, and how to resolve it, is
 one of the red threads in our collection. Solutions include cooperation
-with institutions that have a track record in providing a home for
-archives of activism, be they made from within a movement as it is
+with institutions that have a track record in providing a home for the
+archives of activism, whether made from within a movement as it is
 unfolding or post-hoc collected by allies. In contrast to the
 caricatural linking of ‘the archive’ to oppressive state power, an
 exploration of the variety of archives in practice points to the
@@ -527,7 +523,7 @@ preservation of materials related to oppositional movements; and the
 Centro de Documentación e Investigación de la Cultura de Izquierdas
 (CeDInCI) in Buenos Aires, which is devoted to the preservation of
 materials produced by Latin American Left movements. One should also
-note the existence of cultural centres such as the May Day Rooms (see in
+note the existence of cultural centres such as the MayDay Rooms (see in
 this volume Rosemary Grennan’s essay) which, in being devoted to the
 archiving of multiple movements, offer a measure of institutional
 stability within a changing activist landscape. According to Phil Cohen,
@@ -573,7 +569,7 @@ social movements.
 As demonstrated by the minutes of the 15M activists mentioned earlier,
 archiving the cultural memory of protests entails making a series of
 decisions regarding what materials should be preserved and how the
-information should be organized, and made accessible. These decisions
+information should be organized and made accessible. These decisions
 constitute what we can call the *politics of archiving*. In this
 decision-making process, designing the *archive media ecology* and
 determining the role of the digital in transforming the cultural
@@ -585,7 +581,7 @@ translating the politics of archiving into its material architecture.
 Çelikaslan analyzes the case of Bak.ma, an archive that originated
 during the 2013 Gezi Park protests in Turkey. During the protests,
 activists occupied and turned Istanbul's park into a protest camp to
-resist the urban development plan of the area and police violence.
+resist the urban development plan for the area and police violence.
 Protests spread throughout the country, with parks becoming places where
 people gathered to discuss and oppose police violence. Çelikaslan
 personally took part in the protests and documented events as a member
@@ -598,7 +594,7 @@ could store and share the material collected during the protests.
 Çelikaslan describes the archival work that took place after the
 dissipation of the protest. She argues that affective bonds and
 attachment to the material and events were the primary resources for
-sustaining the Bak.ma archive and shaping the Gezi’s afterlife. The
+sustaining the Bak.ma archive and shaping Gezi’s afterlife. The
 archive gradually also included material from other movements, from
 before and after 2013, becoming a point of reference for activism in
 Turkey and beyond.
@@ -640,11 +636,11 @@ them into parks as a means of demonstrating against police brutality,
 gentrification, and racism. Protest camps were often short-lived as
 police frequently evicted demonstrators after a few days, making the
 task of documenting these experiences important but also difficult to
-implement. In the 1990s, a new attempt by Berkeley University to build
+implement. In the 1990s, a new attempt by UC Berkeley to build
 residential buildings in park areas sparked a new wave of protests,
 which found an important symbolic and affective precedent in the
 archival material accumulated in the 1970s. In the 2010s, with Occupy,
-the legacy of People’s Park movements revived through the digitization
+the legacy of the People’s Park movements revived through the digitization
 of archival material and its circulation on social media. Archival
 records are not merely the material ‘residue’ of past demonstrations and
 social movements, Lovell shows, but are active ingredients in later
@@ -665,7 +661,7 @@ Ann-Katrine Schmidt Nielsen and Daniel Villar-Onrubia reflect in their
 essays on these dilemmas but bring them back to their non-metaphorical
 domain: the use of the performing arts for the articulation of dissent.
 
-In his analysis, Schmidt Nielsen takes as her point of departure the use
+In her analysis, Schmidt Nielsen takes as her point of departure the use
 of Instagram by three exiled Afghan artists: Kubra Khademi, Shamsia
 Hassani, and Rada Akbar. The author argues that social media platforms
 may work as a platform for archiving activism, allowing artists under
@@ -720,7 +716,7 @@ Benlloch’s artistic practices) or because of political constraints (e.g.
 Afghanistan under the Taliban). The question of visibility returns also
 in the chapter by Eline Pollaert and Paul van Trigt on disability
 activism. The authors emphasize that the traditional image of activism
-as made of in-person mass gatherings makes other forms of activism
+as made up of in-person mass gatherings makes other forms of activism
 invisible. This is especially the case with disability activism since
 disabled activists may not have access to physical protests, and their
 online activism is often dismissed as 'armchair activism'. As a result,
@@ -735,7 +731,7 @@ broader audience, and create new archival/archivable material and
 activist networks. Nevertheless, the authors note some persistent
 problems: the lack of time and resources for use in archiving; the
 tendency of disabled activists to prioritize actions in the now over
-archiving the records of the movement their cultural production, the
+archiving the records of the movement's cultural production, the
 lack of continuity in the maintenance and ownership of the digital
 platforms used for preservation and transmission. The authors explore in
 this light the challenges and opportunities offered by the digital for
@@ -763,7 +759,7 @@ archives and offers examples of good practices in which digitization
 serves social justice and democracy, such as the South Asian American
 Digital Archive and the Early Caribbean Digital Archive. These
 initiatives challenge some of the oppressive and gatekeeping structures
-of existing systems and institutions and seek to expand archival record
+of existing systems and institutions and seek to expand the archival record
 to include marginalized voices and experiences.
 
 Mention of the South Asian American Digital Archive (SAADA) brings us to
@@ -809,7 +805,7 @@ Artikişler Collective (Özge Çelikaslan, Alper Şen, Pelin Tan) (ed).
 *Autonomous Archiving*, Barcelona: DPR, 2016.
 
 Assmann, Aleida. *Erinnerungsräume: Formen und Wandlungen des
-kulturellen Gedächtnisses*, München: C.H. Beck Verlag, 1999.
+kulturellen Gedächtnisses*, Munich: C.H. Beck Verlag, 1999.
 
 Assmann, Aleida. ‘Canon and Archive’ in Astrid Erll and Ansgar Nünning
 (eds), *Cultural Memory Studies: An International and Interdisciplinary
@@ -834,7 +830,7 @@ Studies in Contemporary Culture* 16.1 (2016): n.p.
 Caswell, Michelle. *Urgent Archives: Enacting Liberatory Memory Work*,
 London-New York: Routledge, 2021.
 
-Caswell, Michelle, Migoni, Alda, Allina, Geraci, Noah and Cifor, Marika.
+Caswell, Michelle, Migoni, Alda Allina, Geraci, Noah and Cifor, Marika.
 ‘“To Be Able to Imagine Otherwise”: Community Archives and the
 Importance of Representation’, *Archives and Records* 38.1 (2017): 5–26.
 
@@ -908,12 +904,11 @@ in the Archival Multiverse*, Melbourne: Monash University Publishing,
 Gutman, Yifat. *Memory Activism: Reimagining the Past for the Future in
 Israel-Palestine*, Nashville, TN: Vanderbilt University Press, 2017.
 
-Gutman, Yifat and Wüstenberg, Jenny (eds). *The* Routledge *Handbook of
-Memory Activism,* London-New York: Routledge, 2023.
+Gutman, Yifat and Wüstenberg, Jenny (eds). *The Routledge Handbook of Memory Activism*, London-New York: Routledge, 2023.
 
-Hall, Stuart. ‘Constituting an Archive’. *Third Text*, 54 (2001): 89–92.
+Hall, Stuart. ‘Constituting an Archive’, *Third Text 54* (2001): 89–92.
 
-Koselleck, Reinhart. *Futures Past. On the Semantics of Historical
+Koselleck, Reinhart. *Futures Past: On the Semantics of Historical
 Times*, New York: Columbia University Press, 2004.
 
 Liebermann, Yvonne. ‘Born Digital: The Black Lives Matter Movement and
@@ -936,18 +931,15 @@ Reading of an Activist Archive’. *Archivaria* 80 (2015): 33–57.
 Perks, Robert and Thomson, Alistair (eds). *The Oral History Reader*,
 London-New York: Routledge, 2003.
 
-Proglio, Gabriele. *I fatti di Genova. Una storia orale del G8*, Roma:
+Proglio, Gabriele. *I fatti di Genova: Una storia orale del G8*, Roma:
 Donzelli, 2021.
 
 Ramsay, Debra. ‘Tensions in the Interface. The Archive and the Digital’
 in Andrew Hoskins (ed), *Digital Memory Studies. Media Pasts in
-Transition*, London-New York: Routledge,280–302, 2017.
+Transition*, London-New York: Routledge, 280–302, 2017.
 
-Rigney, Ann. ‘Memoryscapes in Activism: The Commonweal, 1885-1894’,
+Rigney, Ann. ‘Mnemoscapes in Activism: The Commonweal, 1885-1894’,
 unpublished manuscript.
-
-Rigney, Ann. ‘Things and the Archive: Scott's Materialist Legacy’,
-*Scottish Literary Review* 7.2 (2015): 13–34.
 
 Rigney, Ann. ‘Remembering Hope: Transnational Activism beyond the
 Traumatic’, *Memory Studies* 11.3 (2018): 368–380.
@@ -981,13 +973,13 @@ London-New York: Routledge, 2016.
 
 Tilly, Charles. ‘Contentious Repertoires in Great Britain, 1758-1834’ in
 Mark Traugott (ed), *Repertoires and Cycles of Collective Action*,
-Durham, NC: Duke University Press, 1995: 15–42.
+Durham, NC: Duke University Press, 1995, 15–42.
 
 Treré, Emiliano. *Hybrid Media Activism: Ecologies, Imaginaries,
 Algorithms*, London-New York: Routledge, 2019.
 
-Weld, Kirsten. *Paper Cadavers. The Archives of Dictatorship in
-Guatemala*, Durham and London: Duke University Press, 2014.
+Weld, Kirsten. *Paper Cadavers: The Archives of Dictatorship in
+Guatemala*, Durham, NC: Duke University Press, 2014.
 
 Wüstenberg, Jenny. *Civil Society and Memory in Post-War Germany*,
 Cambridge: Cambridge University Press, 2017.
@@ -1022,8 +1014,8 @@ Movements, Cultural Memory and Digital Media*, Cham: Palgrave Macmillan,
     and future temporalities in texts is offered in Daniele Salerno and
     Jorge Lozano, ‘Future. A Time of History’, *Versus* 131 (2020):
     189–206; an analysis of how this articulation plays a fundamental
-    role in activism is offered in []{#_Hlk134185790 .anchor}Ann Rigney,
-    ‘Memoryscapes in Activism: The Commonweal, 1885-1894’, unpublished
+    role in activism is offered in Ann Rigney,
+    ‘Mnemoscapes in Activism: The Commonweal, 1885-1894’, unpublished
     mss.
 
 [^03Chapter1_6]: Yifat Gutman, *Memory Activism: Reimagining the Past for the
@@ -1066,7 +1058,7 @@ Movements, Cultural Memory and Digital Media*, Cham: Palgrave Macmillan,
     *Research in the Archival Multiverse*, Melbourne: Monash University
     Publishing, 2017.
 
-[^03Chapter1_14]: Jacques Derrida, *Archive Fever: a Freudian Impression*, Chicago
+[^03Chapter1_14]: Jacques Derrida, *Archive Fever: A Freudian Impression*, Chicago
     and London: The University of Chicago Press, 1996. Michel Foucault,
     *The Archeology of Knowledge*, London-New York: Routledge, 2002
     \[1969\].
@@ -1078,7 +1070,7 @@ Movements, Cultural Memory and Digital Media*, Cham: Palgrave Macmillan,
     2003.
 
 [^03Chapter1_17]: Aleida Assmann. *Erinnerungsräume: Formen und Wandlungen des
-    kulturellen Gedächtnisses*. München: C.H. Beck Verlag, 1999:
+    kulturellen Gedächtnisses*. Munich: C.H. Beck Verlag, 1999:
     342–347.
 
 [^03Chapter1_18]: Aleida Assmann, ‘Canon and Archive’ in Astrid Erll and Ansgar
@@ -1089,25 +1081,22 @@ Movements, Cultural Memory and Digital Media*, Cham: Palgrave Macmillan,
 
 [^03Chapter1_20]: Derrida, *Archive Fever*, 36
 
-[^03Chapter1_21]: Stuart Hall, ‘Constituting an Archive’. *Third Text*, 54 (2001):
-    89–92; Phil Cohen, *Archive That, Comrade: Left Legacies and the
-    Counter Culture of Remembrance*, Oakland: PM Press, 2018; Red
+[^03Chapter1_21]: Stuart Hall, ‘Constituting an Archive’, *Third Text 54* (2001):
+    89–92; Phil Cohen, *Archive That, Comrade: Left Legacies and the Counter Culture of Remembrance*, Oakland: PM Press, 2018; Red
     Chidgey, ‘How to Curate a “Living Archive”: The Restlessness of
     Activist Time and Labour’ in Samuel Merrill, Priska Daphi and Emily
-    Keightley (eds), *Social Movements, Cultural Memory and Digital
-    Media*, Cham: Palgrave Macmillan, 2020, 225–248.
+    Keightley (eds), *Social Movements, Cultural Memory and Digital Media*, Cham: Palgrave Macmillan, 2020, 225–248.
 
 [^03Chapter1_22]: Robert Perks and Alistair Thomson (eds), *The Oral History
     Reader*, London-New York: Routledge, 2003; Debra Ramsay, ‘Tensions
     in the Interface. The Archive and the Digital’ in Andrew Hoskins
     (ed), *Digital Memory Studies. Media Pasts in Transition*,
-    London-New York: Routledge, 294.
+    London-New York: Routledge, 2017, 294.
 
 [^03Chapter1_23]: Hall, ‘Constituting an Archive’; Andrew Flinn and Ben Alexander,
     ‘”Humanizing an Inevitability Political Craft”: Introduction to the
     Special Issue on Archiving Activism and Activist
-    Archiving’, *Archival Science* 15 (2015): 329–335[]{#_Hlk134185990
-    .anchor}; Andrew Flinn, Mary Stevens and Elizabeth Shepherd, ‘Whose
+    Archiving’, *Archival Science* 15 (2015): 329–335; Andrew Flinn, Mary Stevens and Elizabeth Shepherd, ‘Whose
     Memories, Whose Archives? Independent Community Archives, Autonomy
     and the Mainstream’, *Archival Science* 9 (2009): 71–86; Shaunna
     Moore and Susan Pell, ‘Autonomous Archives’, *International Journal
@@ -1243,14 +1232,14 @@ Movements, Cultural Memory and Digital Media*, Cham: Palgrave Macmillan,
 
 [^03Chapter1_59]: Ludmila da Silva Catela and Elizabeth Jelin (eds), *Los archivos
     de la represión: documentos, memoria y verdad*, Buenos Aires: Siglo
-    XXI, 2002; Kirsten Weld, *Paper Cadavers. The Archives of
-    Dictatorship in Guatemala*, Durham and London: Duke University
+    XXI, 2002; Kirsten Weld, *Paper Cadavers: The Archives of
+    Dictatorship in Guatemala*, Durham, NC: Duke University
     Press, 2014.
 
-[^03Chapter1_60]: Tilly, ‘Contentious Repertoires in Great Britain’, 27.
+[^03Chapter1_60]: Tilly, ‘Contentious Repertoires’, 27.
 
 [^03Chapter1_61]: See also Tilly and Tarrow, *Contentious Politics*: 16; Donatella
     della Porta, ‘Repertoires of Contention’ in David A. Snow, Donatella
     della Porta, Bert Klandermans and Doug McAdam (eds), *The
     Wiley-Blackwell Encyclopaedia of Social and Political Movements*,
-    Hoboken: Blackwell Publishing, 2013, p 1–3.
+    Hoboken: Blackwell Publishing, 2013, 1–3.

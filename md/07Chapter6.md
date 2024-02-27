@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 
 ## Introduction
 
-####### Miguel Benlloch (1954–2018) was an activist, artist, and cultural producer born and based in southern Spain. This chapter describes the conception and development of an archive established after his death to preserve, disseminate and keep alive his legacy. In doing so, it delves into the intricacies of archiving the traces of activism enacted through contemporary art practices and against a backdrop of profound social, political, cultural and technological transformations. Firstly, I focus on the process of turning the work of an activist-artist into archival materials to be stored and accessed online, paying particular attention to the tactical selection of digital infrastructures for that purpose. Secondly, considering that Benlloch's practice manifested most notably in the form of performance art – which is quintessentially ephemeral, situated, and deeply anchored to context – I discuss the challenges of trying to preserve that type of cultural heritage. {#miguel-benlloch-19542018-was-an-activist-artist-and-cultural-producer-born-and-based-in-southern-spain.-this-chapter-describes-the-conception-and-development-of-an-archive-established-after-his-death-to-preserve-disseminate-and-keep-alive-his-legacy.-in-doing-so-it-delves-into-the-intricacies-of-archiving-the-traces-of-activism-enacted-through-contemporary-art-practices-and-against-a-backdrop-of-profound-social-political-cultural-and-technological-transformations.-firstly-i-focus-on-the-process-of-turning-the-work-of-an-activist-artist-into-archival-materials-to-be-stored-and-accessed-online-paying-particular-attention-to-the-tactical-selection-of-digital-infrastructures-for-that-purpose.-secondly-considering-that-benllochs-practice-manifested-most-notably-in-the-form-of-performance-art-which-is-quintessentially-ephemeral-situated-and-deeply-anchored-to-context-i-discuss-the-challenges-of-trying-to-preserve-that-type-of-cultural-heritage. .ListParagraph}
+Miguel Benlloch (1954–2018) was an activist, artist, and cultural producer born and based in southern Spain. This chapter describes the conception and development of an archive established after his death to preserve, disseminate and keep alive his legacy. In doing so, it delves into the intricacies of archiving the traces of activism enacted through contemporary art practices and against a backdrop of profound social, political, cultural and technological transformations. Firstly, I focus on the process of turning the work of an activist-artist into archival materials to be stored and accessed online, paying particular attention to the tactical selection of digital infrastructures for that purpose. Secondly, considering that Benlloch's practice manifested most notably in the form of performance art – which is quintessentially ephemeral, situated, and deeply anchored to context – I discuss the challenges of trying to preserve that type of cultural heritage. 
 
 The chapter starts with the story of Benlloch, pausing to reflect upon
 the nature of his work as both an activist and an artist, while
@@ -43,7 +43,7 @@ The chapter draws on relevant literature and documents, on my own
 experience contributing to the creation of the current online
 incarnation of the AMB, as well as on numerous conversations and
 correspondence with the two coordinators of the AMB and close friends of
-Benlloch: Joaquín Vázquez and Mar Villaespesa.[]{#_ylmgacj7hrfw .anchor}
+Benlloch: Joaquín Vázquez and Mar Villaespesa.
 
 ## Benlloch as an activist-artist (and vice versa) 
 
@@ -82,8 +82,8 @@ Over the 1970s and 1980s he was part of numerous organizations devoted
 to different causes,[^08Chapter6_3] most notably fighting the Spanish dictatorship,
 promoting peace, and advocating for LGBTQ+ rights. He played a leading
 role in the configuration of the anti-NATO movement around the
-referendum that took place in Spain in 1986 (Fig. 1) and co-founded the
-Andalusian Homosexual Liberation Front (Fig. 2). His activism was
+referendum that took place in Spain in 1986 (Fig. 6.1) and co-founded the
+Andalusian Homosexual Liberation Front (Fig. 6.2). His activism was
 already deeply infused with creativity and humor by then, as illustrated
 by the ingenious slogans he crafted for some of the causes he supported,
 such as ‘Lo nuestro sí que es mundial’ or ‘Reagan lo que Reagan, OTAN
@@ -128,32 +128,31 @@ hollow, 10 cm thick, and delicately covered in gold leaf. Following
 Byars’ instructions, on the 11th of October 1992, Benlloch was
 introduced into the sphere with the help of a crane to recite the phrase
 ‘María de la O’, time after time, over the course of a few minutes
-(Figg. 3-4). A few photographs and a brief videoclip documented the
+(Figs. 6.3-4). A few photographs and a brief videoclip documented the
 event. The sphere itself was destroyed, as requested by Byars after
 local institutions failed to show any interest in it, but Benlloch kept
 a fragment that is now part of the AMB. Apart from such visual and
 material remains, Benlloch wrote a personal account of that experience
 for the book *Acaeció en Granada*.[^08Chapter6_8]
 
-![](imgs/6.3.tif)  
+![Figs. 6.3-4. Benlloch enters Byar’s golden sphere, 1992. Photos: Mar
+Villaespesa, courtesy of the Archivo Miguel Benlloch.](imgs/6.3.tif)  
 
 <br/>
 
-![6.3-4. Benlloch enters Byar’s golden sphere, 1992. Photos: Mar
-Villaespesa, courtesy of the Archivo Miguel Benlloch.](imgs/6.4.tif)
+![](imgs/6.4.tif)
 
 <br/>
 
-Figg. 6.3-4. Benlloch enters Byar’s golden sphere, 1992. Photos: Mar
-Villaespesa, courtesy of the Archivo Miguel Benlloch.
+
 
 As a creator himself, Benlloch pursued different forms of expression.
 However, he is arguably best known for his work as a performance artist
 and, indeed, was particularly fond of the term ‘performancero’: a
 Spanglish neologism he coined himself to define his identity – at least
 one of them – as an artist. In 1994, he staged what is considered to be
-his first work as a performance artist:[^08Chapter6_9] *Tengo tiempo*[^08Chapter6_10] (Figg.
-5-6). It was originally conceived as a birthday present for his friend
+his first work as a performance artist:[^08Chapter6_9] *Tengo tiempo*[^08Chapter6_10] (Figs.
+6.5-6). It was originally conceived as a birthday present for his friend
 Miquel Bargalló and enacted at a bar in Moyá (Barcelona), but shortly
 after he was invited by artist Robin Kahn to repeat that performance at
 The Kitchen, a prominent venue devoted to experimental art practice in
@@ -199,11 +198,11 @@ still relatively new in historical terms.[^08Chapter6_16] At the same time, his
 trajectory can also be understood as a process of intensified
 aestheticization of activism.
 
-![6.7. Miguel Benlloch, *Bandera tranxesual*, 1998. Digital image: Salvador González Barba. Courtesy of the Archivo Miguel Benlloch.](imgs/6.7.jpg)       
+![Fig. 6.7. Miguel Benlloch, *Bandera tranxesual*, 1998. Digital image: Salvador González Barba. Courtesy of the Archivo Miguel Benlloch.](imgs/6.7.jpg)       
 
 <br/>
 
-![6.8. Miguel Benlloch, *La braga activista*, 2004. Photo: Gonzalo Sáenz de Santa María Poullet. Courtesy of the Archivo Miguel Benlloch.](imgs/6.8.jpg)
+![Fig. 6.8. Miguel Benlloch, *La braga activista*, 2004. Photo: Gonzalo Sáenz de Santa María Poullet. Courtesy of the Archivo Miguel Benlloch.](imgs/6.8.jpg)
 
 <br/>                                                                                                                                                                                                                 
 
@@ -287,7 +286,7 @@ main artworks created by Benlloch:
 Several computers were available at CentroCentro for visitors to browse
 the AMB’s website. The same happened at the next and final iteration of
 that exhibition, hosted at the University of Granada in 2020
-(Fig.9),[^08Chapter6_28] and in *Essays on Seediness*, at the Institut Valencià
+(Fig. 6.9),[^08Chapter6_28] and in *Essays on Seediness*, at the Institut Valencià
 d'Art Modern (IVAM) in 2021-22.[^08Chapter6_29] It is worth noting that the
 exhibition in Valencia followed an approach considerably different from
 the previous ones: ‘It’s no longer a question of simply showing the
@@ -392,7 +391,7 @@ creative work. In order to illustrate how the AMB approaches that issue,
 I will pause on Benlloch’s final performance, *El fantasma invidente*
 (‘The blind ghost’),[^08Chapter6_37] which he enacted on the 16th of February 2018
 at the opening of his exhibition *Miguel Benlloch. Cuerpo conjugado* in
-Seville (Figg. 10-13). Since I was not present, I can only report
+Seville (Figs. 6.10-13). Since I was not present, I can only report
 vicariously, relying on documentation and accounts, such as the words
 written by Santiago Eraso on his blog:
 
@@ -455,7 +454,8 @@ is not the performance itself but some sort of synthesis that captures
 certain moments, gestures and faces; leaving others unrecorded and,
 therefore, unable to enter the AMB – at least in that way.
 
- ![](imgs/6.10.jpg)
+ ![Figs. 6.10-13. Miguel Benlloch, *El fantasma invidente*, 2018. Photos:
+Javier Andrada. Courtesy of the Archivo Miguel Benlloch.](imgs/6.10.jpg)
  
  <br/>
 
@@ -467,8 +467,7 @@ therefore, unable to enter the AMB – at least in that way.
  
  <br/>
   
- ![Figg. 6.10-13. Miguel Benlloch, *El fantasma invidente*, 2018. Photos:
-Javier Andrada. Courtesy of the Archivo Miguel Benlloch.](imgs/6.13.jpg)
+ ![](imgs/6.13.jpg)
 
 <br/>
 
@@ -618,7 +617,7 @@ stable since it was established in 2019, the interfaces and underlying
 infrastructures that enable access to content have undergone several
 reconfigurations.
 
-The first online incarnation of the AMB (Fig.14) consisted of 90
+The first online incarnation of the AMB (Fig. 6.14) consisted of 90
 ‘project’ web pages, a page listing all those projects in alphabetical
 order, another page with biographical information, and the homepage,
 which gave access to each of the projects by means of featured images of
@@ -629,7 +628,7 @@ each of them.
 <br/>
 
 Each of the project web pages followed a similar structure that required
-scrolling horizontally (Fig.15): title, embedded video or still image,
+scrolling horizontally (Fig. 6.15): title, embedded video or still image,
 description, key milestones of the project in chronological order (for
 example, the date on which Benlloch staged a performance for the first
 time and subsequent iterations or public screenings of the respective
@@ -734,7 +733,7 @@ activism and other socio-cultural practices:
 > owner’s permission.[^08Chapter6_57]
 
 Instead, the Internet Archive (IA) works now as the primary repository
-in which the archival materials within the AMB are stored (Fig. 17),
+in which the archival materials within the AMB are stored (Fig. 6.17),
 including both born-digital and digitized contents of different kinds
 (i.e., videos, still images, PDF files). The IA’s mission is to ‘provide
 Universal Access to All Knowledge’ and, unlike commercial platforms, it
@@ -804,7 +803,7 @@ While the AMB was established to preserve, give access to, and keep
 Benlloch’s legacy alive, it goes well beyond his own person and helps to
 better understand some of the social movements, struggles, and
 sensibilities that defined the last and first decades of the 20th and
-21st Centuries respectively. Likewise, considering the fact that his
+21st centuries respectively. Likewise, considering the fact that his
 practice unfolded across the transition from predigital to postdigital
 times and the particularity that the AMB has been embodied into various
 incarnations already, the chapter offers relevant insights into the
@@ -832,7 +831,7 @@ Australian Copyright Council. *Performance Art & Copyright*, Strawberry
 Hills Sidney: Australian Copyright Council, 2019.
 <https://web.archive.org/web/20231112210706/https://www.copyright.org.au/browse/book/ACC-Performance-Art-&-Copyright-INFO125/>
 
-Autistici/Inventati, +KAOS. *Ten Years of Hacking and Media Activism*,
+Autistici/Inventati *+KAOS. Ten Years of Hacking and Media Activism*,
 Amsterdam: Institute of Network Cultures, 2017.
 
 Barlett, Vanessa. ‘Web Archiving and Participation: The Future History
@@ -857,7 +856,7 @@ Content: Lessons from Archiving the Occupy Movement’, *Preservation,
 Digital Technology & Culture* 42.1 (2013): 31–38.
 
 Bishop, Sophie. ‘Anxiety, Panic and Self-optimization: Inequalities and
-the YouTube Algorithm’, in *Convergence* 24.1 (2018): 69*–*84.
+the YouTube Algorithm’, *Convergence* 24.1 (2018): 69*–*84.
 
 Caswell, Michelle. *Urgent Archives: Enacting Liberatory Memory Work*,
 London-New York: Routledge, 2021.
@@ -913,7 +912,7 @@ conversación con Tamara Díaz Bringas y Fernando López García’,
 
 McCammon, Muira and Lingel, Jessa. ‘Situating Dead-and-dying Platforms:
 Technological Failure, Infrastructural Precarity, and Digital Decline’,
-*Internet Histories* 6.1-2 (2022), 1–13.
+*Internet Histories* 6.1-2 (2022): 1–13.
 
 *Miguel Benlloch. Cuerpo conjugado*, Sevilla: Instituto de la Cultura y
 las Artes de Sevilla (ICAS) – Ayuntamiento de Sevilla, 2018,
@@ -1100,8 +1099,7 @@ First Amendment Institute,* 17 January 2020,
 [^08Chapter6_32]: ‘Ensayos Sobre lo Cutre’, Archivo Miguel Benlloch, 2022,
     <https://web.archive.org/web/20231112125640/https://ensayos.archivomiguelbenlloch.net/>
 
-[^08Chapter6_33]: Personal correspondence with Mar Villaespesa, 2022, translated
-    into English by the author.
+[^08Chapter6_33]: Personal correspondence with Mar Villaespesa, 2022, translated into English by the author.
 
 [^08Chapter6_34]: Villaespesa, ‘My Dear Miguel’, 21.
 
@@ -1173,7 +1171,7 @@ First Amendment Institute,* 17 January 2020,
 [^08Chapter6_52]: Emiliano Treré, *Hybrid Media Activism: Ecologies, Imaginaries,
     Algorithms*. London: Routledge, 2018.
 
-[^08Chapter6_53]: Autistici/Inventati and *+KAOS, Ten Years of Hacking and Media
+[^08Chapter6_53]: Autistici/Inventati. *+KAOS, Ten Years of Hacking and Media
     Activism*, Amsterdam: Institute of Network Cultures, 2017, 107.
 
 [^08Chapter6_54]: Daniel Villar-Onrubia and Victoria I. Marín,

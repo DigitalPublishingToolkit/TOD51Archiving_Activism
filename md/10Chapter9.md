@@ -73,7 +73,7 @@ must be actively stewarded if they are to constitute archives. Archives
 (always with an ‘s’ from an archival studies perspective) are
 collections of records, preserved and described, rather than metaphors
 (as they are often characterized in the humanities). The tension between
-these two perspectives on archive(s) surface here, as authors work
+these two perspectives on archive(s) surfaces here, as authors work
 through the very material concerns of how to preserve *stuff* over time.
 It is abundantly clear on these pages that digital records are simply
 material *stuff* in different form, requiring material infrastructure

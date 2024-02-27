@@ -119,7 +119,7 @@ and oppression we seek to challenge.
 
 Few archivists would embrace the role famously challenged by the late
 Terry Cook, an influential Canadian archival theorist, as ‘neutral,
-invisible, silent handmaidens of historical research’. [^10Chapter8_5]
+invisible, silent handmaidens of historical research’.[^10Chapter8_5]
 Nevertheless, the idea of the archivist as a neutral custodian has a
 long history and remains current; in defining how it is rejected by some
 archivists, Flinn and Alexander acknowledge that ‘professional advocacy
@@ -272,7 +272,7 @@ hierarchies that define archival praxis arise from the fact that
 ‘\[a\]rchival principles and functions developed largely in the context
 of nineteenth-century bureaucratic states’[^10Chapter8_17] and much still current
 and established archival theory and praxis remains rooted directly in
-such record-keeping systems. Two texts, in particular, remain
+such recordkeeping systems. Two texts, in particular, remain
 foundational to present-day archival praxis. The *Handleiding voor het
 ordenen en beschrijven van archieven* \[*Manual for the arrangement and
 description of archives*\] (1898), known colloquially as the *Dutch
@@ -495,7 +495,7 @@ pre-twentieth-century history of the Caribbean, often drawn from
 custodial repositories that can be difficult to access physically – not
 least because colonial records may well still be held in the colonizing
 nations. While the materials are frequently authored by Europeans, ECDA
-‘aims to use digital tools to ‘remix’ the archive and foreground the
+‘aims to use digital tools to "remix" the archive and foreground the
 centrality and creativity of enslaved and free African, Afro-creole, and
 Indigenous peoples in the Caribbean world’.[^10Chapter8_26] In this way, without
 altering the records themselves, ECDA’s structures of access and its
@@ -554,9 +554,9 @@ and relationship to these. As Ramírez states:
 > neutrality, and objectivity) and having honest dialogues about how we
 > as a profession and individuals perpetuate inequality, we can liberate
 > ourselves to do the real work of documenting history to our fullest
-> capacity — in turn, inaugurating a praxis that listens “… for the
+> capacity — in turn, inaugurating a praxis that listens '… for the
 > voices of those who are marginalised or excluded by prevailing
-> relations of power”.[^10Chapter8_29]
+> relations of power'.[^10Chapter8_29]
 
 In other words, it is not Greene’s version of impartiality that best
 allows for the collection of a broad record of society as a whole;
@@ -596,7 +596,7 @@ choosing to click through to the full contribution based on the title
 and opening lines, and often a date. Both websites invite users to
 contribute their own stories. Through the assurance on the US-wide site
 that the record will not be interfered with, the website/archives
-positions itself in a role close to that of the ‘neutral custodian’ .
+positions itself in a role close to that of the ‘neutral custodian’.
 The motivation behind both archives, however, is inherently political:
 to return power over records to people whose marginalization has made
 them subject to the violent expression of systemic oppression.
@@ -703,7 +703,7 @@ Jeurgens, Charles and Karabinos, Michael. ‘Paradoxes of Curating
 Colonial Memory’, *Archival Science* 20 (2020): 199–220.
 
 Jimerson, Randall. ‘Archives for All: Professional Responsibility and
-Social Justice’, *The American Archivist* 7 (2007): 252–281.
+Social Justice’, *The American Archivist* 70.2 (2007): 252–281.
 
 Jones, Michael and O’Neill, Cate. ‘Identity, Records and Archival
 Evidence: Exploring the Needs of Forgotten Australians and Former Child
@@ -735,7 +735,7 @@ Archive*, Northeastern University, 2022,
     [dictionary.archivists.org/entry/archivy.html](https://dictionary.archivists.org/entry/archivy.html).
 
 [^10Chapter8_2]: Randall C. Jimerson, ‘Archives for All: Professional
-    Responsibility and Social Justice’, *The American Archivist* 70
+    Responsibility and Social Justice’, *The American Archivist* 70.2
     (2007): 270.
 
 [^10Chapter8_3]: See Jeanette A. Bastian, ‘Taking Custody, Giving Access: A
@@ -757,11 +757,11 @@ Archive*, Northeastern University, 2022,
     Press, 1922.
 
 [^10Chapter8_7]: Michelle Caswell, ‘Not Just Between Us: A Riposte to Mark Greene’,
-    *The American Archivist* 76.2 (2013): 605.
+    *The American Archivist* 76 (2013): 605.
 
 [^10Chapter8_8]: Jimerson, ‘Archives for All’: 254.
 
-[^10Chapter8_9]: Mark A. Greene, ‘A Critique of Social Justice As an Archival
+[^10Chapter8_9]: Mark A. Greene, ‘A Critique of Social Justice as an Archival
     Imperative: What Is It We’re Doing That’s All That Important?’, *The
     American Archivist* 76.2 (2013): 302–334.
 
